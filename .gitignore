@@ -1,0 +1,11 @@
+# Exclude binary build
+imgcompressor
+
+# Input and Output Directories
+img/
+test_images/
+input/
+
+# IDE Specific configuration
+.idea/
+
